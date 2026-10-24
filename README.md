@@ -5,18 +5,18 @@ The Sovran plugin lets Claude Code, Claude, Cowork, and Codex create and review 
 **Claude Code**
 
 ```
-/plugin install sovran --marketplace mansonchen29/sovran-claude-plugin
+/plugin install sovran --marketplace mansonchen29/sovran-plugin
 ```
 
 **Codex**
 
 ```
-codex plugin marketplace add mansonchen29/sovran-claude-plugin
+codex plugin marketplace add mansonchen29/sovran-plugin
 codex plugin add sovran@sovran
 codex mcp login sovran
 ```
 
-**Claude and Cowork**: open **Customize → Plugins** and add `mansonchen29/sovran-claude-plugin` as a marketplace.
+**Claude and Cowork**: open **Customize → Plugins** and add `mansonchen29/sovran-plugin` as a marketplace.
 
 **ChatGPT**: add `https://sovran.ai/api/mcp` as a custom MCP server. See the [setup guide](https://sovran.ai/docs/api/mcp).
 

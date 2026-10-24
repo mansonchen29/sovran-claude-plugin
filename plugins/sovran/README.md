@@ -28,19 +28,19 @@ The agent stops for you three times: before it creates audience drafts, before i
 **Claude Code**
 
 ```
-/plugin install sovran --marketplace mansonchen29/sovran-claude-plugin
+/plugin install sovran --marketplace mansonchen29/sovran-plugin
 ```
 
-On Claude Code before 2.1.275, run `claude plugin marketplace add mansonchen29/sovran-claude-plugin`, then `claude plugin install sovran@sovran`. Then run `/mcp`, select **sovran**, and sign in.
+On Claude Code before 2.1.275, run `claude plugin marketplace add mansonchen29/sovran-plugin`, then `claude plugin install sovran@sovran`. Then run `/mcp`, select **sovran**, and sign in.
 
 **Claude and Cowork**
 
-Open **Customize → Plugins**. Add `mansonchen29/sovran-claude-plugin` as a marketplace and install **Sovran**. Then connect **Sovran** on the plugin's **Connectors** tab.
+Open **Customize → Plugins**. Add `mansonchen29/sovran-plugin` as a marketplace and install **Sovran**. Then connect **Sovran** on the plugin's **Connectors** tab.
 
 **Codex**
 
 ```
-codex plugin marketplace add mansonchen29/sovran-claude-plugin
+codex plugin marketplace add mansonchen29/sovran-plugin
 codex plugin add sovran@sovran
 codex mcp login sovran
 ```

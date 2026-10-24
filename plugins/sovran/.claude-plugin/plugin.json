@@ -9,7 +9,7 @@
     "url": "https://sovran.ai"
   },
   "homepage": "https://sovran.ai/docs/api/mcp",
-  "repository": "https://github.com/mansonchen29/sovran-claude-plugin",
+  "repository": "https://github.com/mansonchen29/sovran-plugin",
   "keywords": ["video ads", "ad creative", "ugc", "variations", "performance marketing"],
   "icon": "./assets/sovran-logo.png",
   "documentationUrl": "https://sovran.ai/docs/api/mcp",
