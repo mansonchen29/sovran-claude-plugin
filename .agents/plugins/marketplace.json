@@ -1,0 +1,16 @@
+{
+  "name": "sovran",
+  "owner": {
+    "name": "Sovran",
+    "url": "https://sovran.ai"
+  },
+  "description": "Sovran's plugin for creating and reviewing video ads with Codex.",
+  "plugins": [
+    {
+      "name": "sovran",
+      "source": "./plugins/sovran",
+      "description": "Create, review, and export video ad drafts from media saved in your Sovran projects.",
+      "category": "Creativity"
+    }
+  ]
+}

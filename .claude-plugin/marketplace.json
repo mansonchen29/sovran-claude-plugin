@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "sovran",
-      "source": "./",
+      "source": "./plugins/sovran",
       "description": "Create, review, and export video ad drafts from media saved in your Sovran projects."
     }
   ]

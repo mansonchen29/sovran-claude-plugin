@@ -1,0 +1,36 @@
+{
+  "name": "sovran",
+  "version": "1.0.0",
+  "description": "Create, review, and export video ad drafts from media saved in your Sovran projects.",
+  "author": {
+    "name": "Sovran",
+    "email": "support@sovran.ai",
+    "url": "https://sovran.ai"
+  },
+  "homepage": "https://sovran.ai/docs/api/mcp",
+  "repository": "https://github.com/mansonchen29/sovran-claude-plugin",
+  "keywords": ["video ads", "ad creative", "ugc", "variations", "performance marketing"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Sovran",
+    "shortDescription": "Create and review video ads",
+    "longDescription": "Create editable video ad drafts from media saved in your Sovran projects. Choose Video Variations, Smart Variations, Audience variations, Modular Builder sequences, Voiceover Remix, B-roll Remix, or Creative Copilot. Each draft opens in the Sovran editor for review. Nothing renders until you select drafts and approve the credit cost. Up to ten selected drafts from one project render together as one batch.\n\nSign in to Sovran and choose one workspace. The connection starts with Read access. It asks for Write, Generate, Delete, or Publish only when a task needs them. Actions follow your workspace role, paid plan, credits, and connection permissions.\n\nThe plugin uses media that is already saved in Sovran. Upload local files in the Sovran dashboard or with the Sovran CLI.",
+    "developerName": "Sovran",
+    "category": "Creativity",
+    "capabilities": ["Video ad drafts", "Audience variations", "Draft review", "Batch rendering"],
+    "websiteURL": "https://sovran.ai",
+    "supportURL": "https://sovran.ai/docs/api/mcp",
+    "privacyPolicyURL": "https://sovran.ai/legal/privacy",
+    "termsOfServiceURL": "https://sovran.ai/legal/terms",
+    "defaultPrompt": [
+      "List my Sovran projects and show the ready media in one project.",
+      "Create four Video Variations from my saved product demo. Show the drafts before export.",
+      "Find audiences for my product demo video. Draft ads only for the audiences I approve."
+    ],
+    "brandColor": "#4339E0",
+    "brandColorDark": "#6570FF",
+    "composerIcon": "./assets/sovran-logo.png",
+    "logo": "./assets/sovran-logo.png"
+  }
+}
