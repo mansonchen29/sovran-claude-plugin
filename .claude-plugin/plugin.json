@@ -1,0 +1,19 @@
+{
+  "name": "sovran",
+  "displayName": "Sovran",
+  "version": "1.0.0",
+  "description": "Create, review, and export video ad drafts from media saved in your Sovran projects.",
+  "author": {
+    "name": "Sovran",
+    "email": "support@sovran.ai",
+    "url": "https://sovran.ai"
+  },
+  "homepage": "https://sovran.ai/docs/api/mcp",
+  "repository": "https://github.com/mansonchen29/sovran-claude-plugin",
+  "keywords": ["video ads", "ad creative", "ugc", "variations", "performance marketing"],
+  "icon": "./assets/sovran-logo.png",
+  "documentationUrl": "https://sovran.ai/docs/api/mcp",
+  "supportUrl": "https://sovran.ai/docs/api/mcp",
+  "privacyPolicyUrl": "https://sovran.ai/legal/privacy",
+  "termsOfServiceUrl": "https://sovran.ai/legal/terms"
+}

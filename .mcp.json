@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sovran": {
+      "type": "http",
+      "url": "https://sovran.ai/api/mcp"
+    }
+  }
+}

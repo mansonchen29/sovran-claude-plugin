@@ -1,0 +1,32 @@
+Sovran Plugin Distribution and Use License
+
+Copyright (c) 2026 Sovran.ai. All rights reserved.
+
+1. Permission
+
+Sovran.ai ("Sovran") permits you to download, install, and use the unmodified
+Sovran plugin, including its skill and connector configuration, for your
+personal or business tasks. You may let agents act on your behalf within your
+authority. You may make internal copies and backups. You may copy the
+complete, unmodified plugin folder into your own or your organization's agent
+tools. Keep this license with those copies.
+
+2. Restrictions
+
+You may not publish modified versions of Sovran-owned plugin files. You may
+not sell, rent, sublicense, or commercially redistribute the plugin without
+Sovran's written permission. The internal copying allowed above is permitted.
+Sovran reserves all rights not expressly granted by this license. This license
+does not grant rights to Sovran trademarks.
+
+3. Sovran service access
+
+Service use is subject to the Sovran terms at https://sovran.ai/legal/terms.
+This license does not bypass permissions, consent requirements, charges, or
+API limits.
+
+4. Warranty
+
+To the extent permitted by law, this plugin is provided "AS IS", without
+warranties of any kind. Service availability and support are governed by the
+service terms.

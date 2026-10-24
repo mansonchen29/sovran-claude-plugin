@@ -1,0 +1,15 @@
+{
+  "name": "sovran",
+  "description": "Sovran's plugin for creating and reviewing video ads with Claude.",
+  "owner": {
+    "name": "Sovran",
+    "email": "support@sovran.ai"
+  },
+  "plugins": [
+    {
+      "name": "sovran",
+      "source": "./",
+      "description": "Create, review, and export video ad drafts from media saved in your Sovran projects."
+    }
+  ]
+}
